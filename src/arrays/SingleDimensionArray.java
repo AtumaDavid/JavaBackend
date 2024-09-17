@@ -23,10 +23,6 @@ public class SingleDimensionArray {
         for (int mark : marks) {
             System.out.println(mark);
         }
-        System.out.println("***********");
 
-        for (int value : marks) {
-            System.out.println(value);
-        }
     }
 }
